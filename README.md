@@ -54,7 +54,7 @@ The PHEV market is more evenly distributed, with Chevrolet contributing 5k PHEVs
 Geographic Distribution:
 Almost all EVs in the dataset are concentrated in Washington State, accounting for 150.1k vehicles. This demonstrates regional dominance and adoption trends.
 
-Recommendations
+## Recommendations
 Focus on BEV Development:
 Leverage Tesla’s dominance in the BEV segment to identify key features driving their success which cn be looked into by the R&D Department. Elysium should prioritize BEV models to align with the growing market preference for fully electric vehicles.
 
