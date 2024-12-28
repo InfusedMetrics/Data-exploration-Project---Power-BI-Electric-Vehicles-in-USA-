@@ -56,10 +56,10 @@ Almost all EVs in the dataset are concentrated in Washington State, accounting f
 
 ## Recommendations
 Focus on BEV Development:
-Leverage Tesla’s dominance in the BEV segment to identify key features driving their success which cn be looked into by the R&D Department. Elysium should prioritize BEV models to align with the growing market preference for fully electric vehicles.
+Leverage Tesla’s dominance in the BEV segment to identify key features driving their success which can be looked into by the R&D Department. Elysium should prioritize BEV models to align with the growing market preference for fully electric vehicles.
 
 Enhance Electric Range:
-R&D can look in to improving electric range, as the current average (67.8 miles) is a limitation for market competitiveness. Highlight extended range as a key selling point.
+R&D can look in to improving electric range, as the current average (67.8 miles) is a limitation for market competitiveness. 
 
 Target Regional Opportunities:
 Given the dominance of EVs in Washington State, Elysium should consider launching in this region to capitalize on existing infrastructure and market acceptance.
