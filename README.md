@@ -9,7 +9,7 @@ The electric vehicles (EV) market in the United States is rapidly expanding, fue
 
 ## Objectives 
 Total Vehicles: The analysis identifies the total number of electric vehicles (EVs) in the market, encompassing Battery Electric Vehicles (BEVs) and Plug-in Hybrid Electric Vehicles (PHEVs).
-Average Elcetric Range: provides insights into the state of technological advancements and energy efficiency in the industry. Benchmarks for range efficiency are identified, offering a glimpse into consumer preferences and technological priorities.
+Average Electric Range: provides insights into the state of technological advancements and energy efficiency in the industry. Benchmarks for range efficiency are identified, offering a glimpse into consumer preferences and technological priorities.
 Total BEV Vehicles and % of Total BEV Vehicles: Analysis explores the potential drivers behind BEV market share, including price, range, and availability.
 Total PHEV Vehicles and % of Total PHEV Vehicles: Total PHEV count is assessed, with calculations for their market share within the EV segment.
 
